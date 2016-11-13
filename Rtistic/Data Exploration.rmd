@@ -1,0 +1,2 @@
+git remote add origin https://github.com/evema/Santander-Product-Recommendation.git
+git push -u origin master
